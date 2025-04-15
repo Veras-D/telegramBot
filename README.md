@@ -100,4 +100,4 @@ Pull requests and suggestions are welcome! If you liked it, leave a ⭐️ or fo
 
 ## 📸 Preview
 
-![preview](../public/discordBot/bot-1.png)
+![bot-1](https://github.com/user-attachments/assets/4728cf10-38e3-4874-becd-5fc932102a1c)
